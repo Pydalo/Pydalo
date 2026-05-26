@@ -1,5 +1,5 @@
 ####
-## Hey everyone 👋, I'm Pydalos
+## Hey everyone 👋, I'm Pydalo
 
 
 <!--
