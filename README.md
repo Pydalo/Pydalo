@@ -3,10 +3,6 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Pydalo/Jitran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=Jitran" />
-</a>
+[![Jitran](https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=Jitran)](https://github.com/Pydalo/Jitran)
 
-<a href="https://github.com/Pydalo/Jitranserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=Jitranserver" />
-</a>
+[![Jitranserver](https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=Jitranserver)](https://github.com/Pydalo/Jitranserver)
