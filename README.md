@@ -1,7 +1,15 @@
 ####
 ## Hey everyone 👋, I'm Pydalo
 
+## 🚀 Featured Projects
 
+<a href="https://github.com/Pydalo/repo-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=repo-name" />
+</a>
+
+<a href="https://github.com/Pydalo/another-repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pydalo&repo=another-repo" />
+</a>
 <!--
 **Pydalo/Pydalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
